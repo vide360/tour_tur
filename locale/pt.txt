@@ -1,0 +1,36 @@
+#: locale=pt
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_8C896695_9881_BE6C_41E2_7217DA78D730.text = Centro Histórico
+HotspotPanoramaOverlayTextImage_89483AF2_9880_97A4_41D7_CCF5CB18C274.text = Farol do Cabo Branco
+HotspotPanoramaOverlayTextImage_8A666CE1_9883_93A4_419E_5EFC22D73827.text = Mercado de Artesanato
+HotspotPanoramaOverlayTextImage_8B7699E4_9880_75AD_41D6_01D33CBE0DA1.text = Picãozinho
+
+## Media
+
+### Audio
+audiores_8EFF38B9_9887_93A4_41E0_5D4DF075ED06.mp3Url = media/audio_8D598739_988F_BEA4_41C4_189D063452EF_pt.mp3
+
+### Image
+imlevel_81F1D804_9880_926C_41D0_FD4A383A96B4.url = media/panorama_88F471CF_988F_95FC_41D4_20E3641682A6_HS_4cu21tsz_pt.png
+imlevel_81F53AC7_9880_97EC_41D0_C4A4016712B1.url = media/panorama_88F471CF_988F_95FC_41D4_20E3641682A6_HS_db2dygug_pt.png
+imlevel_81FD03E6_9880_95AD_41D0_7B0EBF84A836.url = media/panorama_88F471CF_988F_95FC_41D4_20E3641682A6_HS_kjg3pc9c_pt.png
+imlevel_81F2C571_9880_92A7_41CD_A9B940AF5311.url = media/panorama_88F471CF_988F_95FC_41D4_20E3641682A6_HS_y0wc8thv_pt.png
+
+### Title
+panorama_8B0305A8_9881_9DA4_41CB_B48BF1148D04.label = 01
+panorama_8A258FC0_9881_8DE4_41CD_934C27E218B0.label = 02
+panorama_8A24487D_9880_729F_41DF_1B071B65828A.label = 03
+panorama_8E3B701D_989F_F29C_41BD_75ACDECE5A1F.label = F01
+panorama_88F471CF_988F_95FC_41D4_20E3641682A6.label = Foto 360 Busto
+panorama_8BF3C7F3_989F_9DA4_41E0_FF2A94A3798C.label = f02
+panorama_8BF45ED5_989F_8FEC_41CB_667B8FB24802.label = f03
+
+## Tour
+
+### Description
+
+### Title
+tour.name = PilotoTur
